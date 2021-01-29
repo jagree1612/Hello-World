@@ -11,6 +11,8 @@ public class HelloWorld {
 		System.out.println("dascsa" +20+10);
 		
 		System.out.println(50+10+"fdgfhdf");
+		
+		System.out.println("dascsa" +50+10);
 	}
 
 }
